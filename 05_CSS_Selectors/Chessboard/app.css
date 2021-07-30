@@ -1,0 +1,7 @@
+/* WRITE YOUR CODE IN HERE!!!!  */
+#board .square:nth-of-type(n){
+    background-color: red;
+}
+#board .square:nth-of-type(2n){
+    background-color: black;
+}

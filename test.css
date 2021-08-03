@@ -1,0 +1,49 @@
+div {
+    border: 5px solid #14213d;
+    width: 33%;
+    color: #000000;
+    margin-left: 33%;
+    margin-right: 33%;
+    padding: 20px;
+    background-color: #e5e5e5;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+
+}
+
+#Title{
+    position : sticky;
+    top: 0px;
+}
+
+p:hover {
+    font-weight: 700;
+}
+
+
+body {
+    background-color: #14213d;
+}
+
+.footer td {
+   border: 0px solid black;
+}
+
+.footer a:hover{
+    text-decoration: underline;
+}
+
+.footer a{
+    text-decoration: none;
+}
+
+button, input{
+    border-radius: 10px;
+}
+
+* {
+    font-family: sans-serif;
+}
